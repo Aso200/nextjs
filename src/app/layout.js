@@ -3,8 +3,8 @@ import { Toaster } from "react-hot-toast";
 import "./globals.css";
 
 export const metadata = {
-  title: "Blog App",
-  description: "Blog App",
+  title: "Dokument",
+  description: "dokument App",
 };
 
 export default function RootLayout({ children }) {
@@ -17,4 +17,4 @@ export default function RootLayout({ children }) {
       </body>
     </html>
   );
-};
+}

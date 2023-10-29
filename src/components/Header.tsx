@@ -12,7 +12,7 @@ function ProjectTitle() {
           router.push("/");
         }}
       >
-        Blog App
+        Dokument
       </h1>
     </div>
   );
