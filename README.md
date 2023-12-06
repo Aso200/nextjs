@@ -9,7 +9,7 @@ npm i
 # create a .env file in your project
 create a new file .env in the project and add the database 
 
-# acivate prisma
+# activate prisma
 npx prisma generate 
 
 # start project
