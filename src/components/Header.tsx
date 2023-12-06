@@ -12,7 +12,7 @@ function ProjectTitle() {
           router.push("/");
         }}
       >
-        Dokument
+        Document App
       </h1>
     </div>
   );

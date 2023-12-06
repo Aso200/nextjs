@@ -27,11 +27,11 @@ export default async function Home() {
     <div>
       <div className="flex justify-between items-center">
         <h1 className="text-xl font-bold text-gray-800">
-          dokument
+          Documents
         </h1>
 
         <button className="btn-contained">
-          <Link href="/add-blog">Add dokument</Link>
+          <Link href="/add-blog">Add Documents</Link>
         </button>
       </div>
 
