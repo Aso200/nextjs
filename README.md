@@ -11,7 +11,6 @@ create a new file .env in the project and add the database
 
 # acivate prisma
 npx prisma generate 
-and npx prisma db push if the database doesnt connect
 
 # start project
 npm run dev in localhost:3000
